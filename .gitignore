@@ -1,0 +1,6 @@
+subnet.tf
+routes.tf
+natgatwy.tf
+internetgatwy.tf
+.terraform
+terraform.tfstate*

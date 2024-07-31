@@ -1,0 +1,9 @@
+variable "node_group_name" {}
+variable "instance_types" {}
+variable "desired_size" {}
+variable "max_size" {}
+variable "min_size" {}
+variable "max_unavailable" {}
+variable "cluster_name" {}
+variable "iam_role" {}
+variable "public_subnets" {}
